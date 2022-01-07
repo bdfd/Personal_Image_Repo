@@ -20,6 +20,6 @@ https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/5.Icon-With-Dark-Background/adobe.svg
 Demo with Markdown
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/5.Icon-With-Dark-Background/adobe.svg">
 
-Reference:
-[5.Icon-With-Dark-Background](https://https://github.com/simple-icons/simple-icons)
+Reference:  
+[5.Icon-With-Dark-Background](https://https://github.com/simple-icons/simple-icons)  
 [6.Website-Action-Icon](https://github.com/iconic/open-iconic)
